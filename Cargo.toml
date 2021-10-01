@@ -1,0 +1,8 @@
+[package]
+name = "winui-example"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+windows = "0.20.0"
+bindings = { path = "bindings" }
